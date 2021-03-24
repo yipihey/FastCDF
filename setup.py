@@ -3,7 +3,7 @@ import os, sys
 from distutils.core import setup, Extension
 from distutils import sysconfig
 
-cpp_args = ['-std=c++11', '-stdlib=libc++', '-mmacosx-version-min=10.7', '-I/usr/local/include/eigen3']
+cpp_args = ['-std=c++11', '-stdlib=libc++', '-I/usr/local/include/eigen3']
 
 ext_modules = [
     Extension(
