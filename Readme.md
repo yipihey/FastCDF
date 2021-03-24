@@ -15,4 +15,4 @@ Have a look at [NotebookFastCDF.ipynb](https://github.com/yipihey/FastCDF/Notebo
 
 We also provide a simple Makefile to compile it the commandline test functions. 
 
-![ECDF](./Plot_fastCDFOnSample.png)
+![ECDF](https://github.com/yipihey/FastCDF/Plot_fastCDFOnSample.png)
