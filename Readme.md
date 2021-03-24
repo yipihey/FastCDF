@@ -17,4 +17,6 @@ We also provide a simple Makefile to compile it the commandline test functions.
 
 ![ECDF](./Plot_fastCDFOnSample.png?raw=true )
 
-![FastCDF](./Plot_mulitvariatFastCDF.png?raw=true )
+
+![FastCDF](./Plot_mulitvariateFastCDF.png?raw=true )
+Is another 2 dimensional example using one million points. 
