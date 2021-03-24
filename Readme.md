@@ -11,7 +11,7 @@ should be all that is needed to have your c++ compiler compile the package and i
 
 The two python commands that get exposed by this library are fastCDF and fastCDFOnSample. 
 
-Have a look at [NotebookFastCDF.ipynb](https://github.com/yipihey/FastCDF/NotebookFastCDF.ipynb)
+Have a look at [NotebookFastCDF.ipynb](https://github.com/yipihey/FastCDF/blob/master/NotebookFastCDF.ipynb)
 
 We also provide a simple Makefile to compile it the commandline test functions. 
 
